@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codeandtech9
+- 👋 Hi, I’m Code and Tech
 - 👀 I’m interested in programming and tech stuff
 - 🌱 I’m currently learning Vue.js and Laravel
 - 💞️ I’m looking to collaborate on creating a site or a program if anyone is interested
